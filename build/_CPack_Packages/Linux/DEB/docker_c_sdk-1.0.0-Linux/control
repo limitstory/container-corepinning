@@ -1,0 +1,9 @@
+Package: docker_c_sdk
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: amd64
+Installed-Size: 132
+Maintainer: schaffung
+Description: docker_monitoring built using CMake
+

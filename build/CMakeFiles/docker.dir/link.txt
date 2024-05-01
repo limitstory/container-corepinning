@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libdocker.so -o libdocker.so CMakeFiles/docker.dir/src/docker.c.o CMakeFiles/docker.dir/src/cJSON.c.o CMakeFiles/docker.dir/src/cmonfunc.c.o CMakeFiles/docker.dir/src/sysmonfunc.c.o CMakeFiles/docker.dir/src/scale.c.o CMakeFiles/docker.dir/src/linkedlist.c.o CMakeFiles/docker.dir/src/util.c.o -lcurl 

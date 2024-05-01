@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/cmon.dir/cmon/main.c.o  -o cmon -Wl,-rpath,/home/limitstory/workspace/cmonitor/build: libdocker.so -lcurl 
